@@ -15,4 +15,4 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshots/1.png)
+![App Screenshot](Screenshot/1.png)
