@@ -13,3 +13,6 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 - **CSS** – Styling and layout (includes responsive design)  
 - **JavaScript** – Logic for task management and dynamic updates
 
+## 📸 Screenshot
+
+![App Screenshot](screenshots/1.png)
