@@ -5,7 +5,8 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 ## 🔧 Features
 
 - ✅ Add new tasks easily  
-- ❌ Delete tasks with a single click  
+- ❌ Delete tasks with a single click
+- 📱 Fully responsive for desktop and mobile
 
 ## 💻 Tech Stack
 
