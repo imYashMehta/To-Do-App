@@ -13,6 +13,9 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 - **CSS** – Styling and layout (includes responsive design)  
 - **JavaScript** – Logic for task management and dynamic updates
 
+## 🔗 Website Link
+ https://imyashmehta.github.io/To-Do-App/
+
 ## 📸 Screenshot
 
 ![App Screenshot](Screenshot/2.png)
